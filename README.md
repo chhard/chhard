@@ -1,4 +1,5 @@
 ## 202434828 Jang Hee Jun
+department of AI 24
 
 <!--
 **chhard/chhard** is a ✨ _speciald_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
